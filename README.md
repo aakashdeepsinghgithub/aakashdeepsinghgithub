@@ -1,17 +1,15 @@
 <IF YOU HAVE THE CONSCIENCE TO COPY THIS DESPITE IT HAVING A GPL LICENCE ATLEAST CONSIDER STARRING THE REPOSITORY>
 
 
-![Profile views](https://gpvc.arturio.dev/DashingAdi) 
-<span> <img src="https://visitor-badge.laobi.icu/badge?page_id=DashingAdi" align="right" alt="visitors"/> </span>
+![Profile views](https://gpvc.arturio.dev/aakashdeepsinghgithub) 
+<span> <img src="https://visitor-badge.laobi.icu/badge?page_id=aakashdeepsinghgithub" align="right" alt="visitors"/> </span>
 
 <br/>
 
-  <h1 style="strong">Heyo <img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="hello" width=35 /> Aditya Here! <img src="https://slackmojis.com/emojis/7248-baby-yoda-soup/download" alt="idk" width=35/> </h1>
+  <h1 style="strong">Heyo <img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="hello" width=35 /> Aakash Here! <img src="https://slackmojis.com/emojis/7248-baby-yoda-soup/download" alt="idk" width=35/> </h1>
 
 
 <br/>
-
-<img align="left" height="250px" alt="Aditya Kumar Singh's Dev Card" src="https://github.com/DashingAdi/DashingAdi/blob/main/devcard.svg?r=kdk" padding="5px" />
 
 - 🔭 I’m currently a 1st year BTech Computer Science student at Lovely Professional University.
 - 🌱 I’m currently learning <b> Devops </b> and <b> Android Dev. </b>
@@ -37,24 +35,19 @@
 <p/>
 <br/>
 
-<h2 align="LEFT"> P I N G &nbsp; M E </h2>
-
 <br/>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/755804749210845236?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Why%20did%20the%20chicken%20cross%20the%20road%20?)](https://discord.com/users/755804749210845236)
-
 
 <!--   GitHub stats graph --> 
 <h2 align="left"> S T A T S </h2>
 
   <p align="center">
-   <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DashingAdi&show_icons=true&theme=react&bg_color=0D1117"/>
+   <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aakashdeepsinghgithub&show_icons=true&theme=react&bg_color=0D1117"/>
 </p>
 
-![Aditya's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DashingAdi&hide_border=true&bg_color=0D1117&theme=react)
+![Aakash's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aakashdeepsinghgithub&hide_border=true&bg_color=0D1117&theme=react)
 
   
-<a href="https://github.com/DashingAdi/github-readme-stats"><img alt="Aditya's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DashingAdi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="width: 100%" /></a>
+<a href="https://github.com/aakashdeepsinghgithub/github-readme-stats"><img alt="Aakash's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aakashdeepsinghgithub&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="width: 100%" /></a>
  
   <br/>
   <pre>
