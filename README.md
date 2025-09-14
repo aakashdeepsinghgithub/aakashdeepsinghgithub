@@ -1,75 +1,85 @@
-<IF YOU HAVE THE CONSCIENCE TO COPY THIS DESPITE IT HAVING A GPL LICENCE ATLEAST CONSIDER STARRING THE REPOSITORY>
+# Heyo 👋 Aakash Here!
 
+> *IF YOU HAVE THE CONSCIENCE TO copy this despite it having a GPL licence — AT LEAST CONSIDER STARRING THE REPOSITORY ⭐*
 
-![Profile views](https://gpvc.arturio.dev/aakashdeepsinghgithub) 
-<span> <img src="https://visitor-badge.laobi.icu/badge?page_id=aakashdeepsinghgithub" align="right" alt="visitors"/> </span>
+---
 
-<br/>
+[![Profile views](https://gpvc.arturio.dev/aakashdeepsinghgithub)](https://github.com/aakashdeepsinghgithub)
 
-  <h1 style="strong">Heyo <img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="hello" width=35 /> Aakash Here! <img src="https://slackmojis.com/emojis/7248-baby-yoda-soup/download" alt="idk" width=35/> </h1>
+## About me
 
+- 🔭 I’m currently a **4th year B.Tech (CSE)** student at **Lovely Professional University**.  
+- 🌱 Currently learning **Full Stack Development**.  
+- 💻 Proficient in **Core Java**.  
+- 🥅 **2023 Goal:** Contribute more to Open Source projects.  
+- ⚡ Fun fact: In Australia there are ~48 million kangaroos and in Uruguay ~3,457,380 people — if kangaroos invaded Uruguay, there'd be ~14 kangaroos per person. 🦘😅  
 
-<br/>
+---
 
-- 🔭 I’m currently a 1st year BTech Computer Science student at Lovely Professional University.
-- 🌱 I’m currently learning <b> Full Stack </b> and <b> Android Dev. </b>
-- 🥅 <b> 2023 Goals </b>: Contribute more to Open Source projects.
-- 📬 How to reach me: kumarakash0281@gmail.com
-- ⚡ Fun fact: In australia there are 48 million kangaroos and in Uruguay there are 3,457,380 inhabitants. So if the kangaroos decide to invade Uruguay, each Uruguayan will have to fight 14 kangaroos.
+## Contact
 
-<br/>
-  
- <p align="center" >
- <a href="https://www.linkedin.com/in/aakash-deep-singh-work/"><img alt="LinkedIn" width="10%" style="padding:10px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-linkedin.svg"/></a>
- <a href=""><img alt="Twitter" width="10%" style="padding:10px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-twitter.svg"/></a>
- <a href="mailto:kumarakash0281@gmail.com.com"><img alt="Gmail | Mail" width="10%" style="padding:10px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-gmail-logo.svg"/></a>
-  <a href="/"><img alt="LinkTree" width="10%" style="padding:10px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-web-64.png"/></a>
-  <a href=""><img alt="Reddit" width="10%" style="padding:10px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-reddit.svg"/></a>
- </p>
-  
-<br/>
+- ✉️ kumarakash0281@gmail.com  
+- 🔗 LinkedIn: [Aakash Deep Singh](https://www.linkedin.com/in/aakash-deep-singh-work/)  
 
-<h2 align="left"> T O O L S </h2>
+---
+
+## 🛠️ Skills & Tools
+
 <p align="center">
-<img src = "https://github.com/DashingAdi/DashingAdi/blob/main/images/Untitled_design_2_-removebg-preview.png" alt="tools" />
-<p/>
-<br/>
-
-<br/>
-
-<!--   GitHub stats graph --> 
-<h2 align="left"> S T A T S </h2>
-
-  <p align="center">
-   <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aakashdeepsinghgithub&show_icons=true&theme=react&bg_color=0D1117"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-![Aakash's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aakashdeepsinghgithub&hide_border=true&bg_color=0D1117&theme=react)
+---
 
-  
-<a href="https://github.com/aakashdeepsinghgithub/github-readme-stats"><img alt="Aakash's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aakashdeepsinghgithub&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="width: 100%" /></a>
- 
-  <br/>
-  <pre>
-  P.S: Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
-  </pre>
+## Repositories / Projects (Popular)
 
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
+I frequently contribute simple projects and learning repos. A few popular ones on my profile:
 
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
+1. `week1-Python-CipherSchools` — Week 1 Python exercises (Jupyter Notebooks)  
+2. `week1-IP-CipherSchools` — Intro programming HTML projects  
+3. `week2-IP-CipherSchools` — Week 2 HTML projects  
+4. `week2-Python-CipherSchools` — Week 2 Python notebooks  
+5. `coders_KOC24_CipherSchools` — Coding challenge / practice HTML  
 
-<!--START_CONTRIBUTIONS:readme-info-->
-<!--END_CONTRIBUTIONS:readme-info-->
+(See **Repositories** tab on my GitHub for the full list.)
 
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
+---
 
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+## 📊 GitHub Stats
 
-<!--START_SECTION_LANGUAGE:readme-info-->
-<!--END_SECTION_LANGUAGE:readme-info-->
-  
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aakashdeepsinghgithub&show_icons=true&theme=react&bg_color=0D1117" alt="GitHub Stats" width="100%"/>
+</p>
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=aakashdeepsinghgithub&hide_border=true&bg_color=0D1117&theme=react)
+
+---
+
+## 🤝 How to reach / collaborate
+
+If you'd like to collaborate, suggest open-source issues, or just say hi:
+
+- Open an issue or PR on any of my repositories  
+- Email: kumarakash0281@gmail.com  
+- LinkedIn message  
+
+---
+
+## License / Notes
+
+This README (and any code you copy from my public repos) may be under GPL — please check each repository's LICENSE file. If you use or adapt something, a star ⭐ or attribution is appreciated.
+
+---
+
+_Thanks for visiting — happy coding!_
+
+<!-- Generated & optimised for https://github.com/aakashdeepsinghgithub -->
